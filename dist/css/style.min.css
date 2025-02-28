@@ -374,7 +374,7 @@ button {
 }
 .intro {
   position: relative;
-  background-image: url('images/intro-bg.jpg');
+  background-image: url('./../images/intro-bg.jpg');
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
