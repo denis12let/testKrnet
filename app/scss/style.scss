@@ -1,0 +1,14 @@
+@import 'vars';
+@import 'fonts';
+@import 'reset';
+@import 'libs';
+@import 'global';
+
+@import 'normalize';
+
+@import 'pages/about';
+
+body {
+  // font-family: Poppins; //не работает для кириллицы
+  font-family: 'Open Sans';
+}

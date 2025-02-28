@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Poppins';
+  src: url('./../fonts/Poppins/Poppins-Black.ttf');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: url('./../fonts/Poppins/Poppins-Bold.ttf');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+//альтернатива
+@font-face {
+  font-family: 'Open Sans';
+  src: url('./../fonts/Open_Sans/static/OpenSans-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('./../fonts/Open_Sans/static/OpenSans-Bold.ttf');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
